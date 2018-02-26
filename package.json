@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/audreybrockhaus/adrienne#readme",
   "dependencies": {
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.7.2",
+    "normalize.css": "^8.0.0"
   }
 }
